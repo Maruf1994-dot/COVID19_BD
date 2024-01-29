@@ -1,4 +1,4 @@
-Analysing and Visualising COVID-19 pandemic 
+Analysing and Visualising COVID-19 Pandemic 
 
 A pneumonia of unknown cause detected in Wuhan, China was first reported to the WHO Country Office in China on 31 December 2019. Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 
